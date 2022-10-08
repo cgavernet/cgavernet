@@ -4,6 +4,10 @@
 - 👀 Maker, mis intereses principales son la educación en el área de electrónica, programación y la impresión 3D.
 - 🌱 Estoy en continuo preceso de aprendizaje en nuevas tecnologías.
 
+Actividades:
+- Técnico en Telecomunicaciones en SiTSA Telecomunicaciones S.A
+- Docente en I.P.E.T.y.M N° 257 "Dr René Favaloro"
+
 <!---
 cgavernet/cgavernet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
