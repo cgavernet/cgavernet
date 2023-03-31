@@ -1,12 +1,19 @@
-![image](https://user-images.githubusercontent.com/6855157/194717318-7e7813a4-bcd8-4a41-a6b9-33d52c7930ff.png)
+![image](https://user-images.githubusercontent.com/6855157/229213017-37394554-8fd2-4503-b6d1-03f99c9ddcf8.png)
+
 
 - 👋 Hola! Soy @cgavernet, éste es mi perfil personal. 
-- 👀 Maker, mis intereses principales son la educación en el área de electrónica, programación y la impresión 3D.
-- 🌱 Estoy en continuo preceso de aprendizaje en nuevas tecnologías.
+- 👀 Mis intereses principales son en el área IT.
+- 🌱 Estoy en continuo preceso de aprendizaje de nuevas tecnologías.
 
-Actividades:
+Actividades Laborales:
 - Técnico en Telecomunicaciones en SiTSA Telecomunicaciones S.A
 - Docente en I.P.E.T.y.M N° 257 "Dr René Favaloro"
+
+Actividades Educativas
+- Cursando Programa xAcademy 2023
+- Cursando Desarrollo Web y Aplicaciones Digitales en ISPC Córdoba
+- Cursando Testing Manual, Ágil y con Herramientas en Argentina Programa 4.0
+
 
 <!---
 cgavernet/cgavernet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
