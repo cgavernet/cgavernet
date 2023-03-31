@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/6855157/229213017-37394554-8fd2-4503-b6d1-03f99c9ddcf8.png)
 
 
-- 👋 Hola! Soy @cgavernet, éste es mi perfil personal. 
-- 👀 Mis intereses principales son en el área IT.
+- 👋 Hola! Soy Carlos Gavernet, éste es mi perfil personal. 
+- 👀 Mis intereses principales se centran el área IT.
 - 🌱 Estoy en continuo preceso de aprendizaje de nuevas tecnologías.
 
 Actividades Laborales:
